@@ -3,6 +3,20 @@ hackspaces ~ $ whoami
 ai engineer, learning enterprise @ asu.
 agents write the code. i decide what they may touch, and i check what they did.
 
+hackspaces ~ $ git log --since=30.days --author=me --all-repos
+  192 commits · 11 repos
+
+  ▇▇▇▇▇▇▇▇▇▇▇▇  work @ asu             139  (5 private repos)
+  ▇▇            koma                    25
+  ▇             zones                   12
+  ▇             tally-ios               10
+  ▇             airtable-connect-mcp     3
+  ▇             lightcast-connect-mcp    2
+  ▇             ahrefs-connect-mcp       1
+
+hackspaces ~ $ last shipped
+  blueshark-forge v0.11.16 · 79 days ago
+
 hackspaces ~ $ ps --user hackspaces
 NAME           REPO      WHAT
 forge          public    agent runtime for the terminal. local model or frontier, same loop.
@@ -31,3 +45,5 @@ hackspaces ~ $ █
 [AppTrail](https://github.com/hackspaces/AppTrail) ·
 [DiskPulse](https://github.com/hackspaces/DiskPulse) ·
 [topk1.com](https://topk1.com)
+
+<sub>numbers are real, regenerated daily by a bot. last run 2026-10-07 16:40 utc.</sub>
