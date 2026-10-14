@@ -4,16 +4,17 @@ ai engineer, learning enterprise @ asu.
 agents write the code. i decide what they may touch, and i check what they did.
 
 hackspaces ~ $ git log --since=30.days --author=me --all-repos
-  412 commits · 10 repos
+  470 commits · 11 repos
 
-  ▇▇▇▇▇▇▇▇▇▇▇▇  work @ asu             399  (6 private repos)
+  ▇▇▇▇▇▇▇▇▇▇▇▇  work @ asu             456  (6 private repos)
   ▇             zones                    7
-  ▇             airtable-connect-mcp     3
-  ▇             lightcast-connect-mcp    2
+  ▇             lightcast-connect-mcp    4
+  ▇             airtable-connect-mcp     1
   ▇             ahrefs-connect-mcp       1
+  ▇             hubspot-connect-mcp      1
 
 hackspaces ~ $ last shipped
-  blueshark-forge v0.11.16 · 80 days ago
+  blueshark-forge v0.11.16 · 85 days ago
 
 hackspaces ~ $ ps --user hackspaces
 NAME           REPO      WHAT
@@ -44,4 +45,4 @@ hackspaces ~ $ █
 [DiskPulse](https://github.com/hackspaces/DiskPulse) ·
 [topk1.com](https://topk1.com)
 
-<sub>numbers are real, regenerated daily by a bot. last run 2026-10-09 03:30 utc.</sub>
+<sub>numbers are real, regenerated daily by a bot. last run 2026-10-14 03:30 utc.</sub>
